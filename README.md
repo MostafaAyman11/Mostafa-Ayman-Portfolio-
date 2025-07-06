@@ -14,6 +14,7 @@ This project focuses on developing a comprehensive and interactive Power BI dash
 * Track and visualize total sales, shipping efficiency, and customer segmentation.
 * Analyze order trends, best-selling categories, and regional performance.
 * Provide executive-friendly and drill-down analytical views.
+* Giving some recommendations.
 
 ---
 
@@ -42,8 +43,8 @@ This project focuses on developing a comprehensive and interactive Power BI dash
 ### 🛠️ Resources Used
 
 * Microsoft Excel (initial data)
-* Power BI Desktop
 * Power Query Editor
+* Power BI Desktop
 
 ### ⚠️ Risk Assessment
 
@@ -128,11 +129,14 @@ Manual reporting is inefficient and lacks granularity. Automating data analysis 
 
 * Many-to-One relationships:
 
-  1. `Sales_Fact` → `Dim_Region` via Region ID
-  2. `Sales_Fact` → `Calendar` via Date
-  3. `Sales_Fact` → `Dim_Customer` via Customer ID
-  4. `Sales_Fact` → `Dim_Product` via Product ID
-  5. `Sales_Fact` → `Dim_Ship` via Date
+  1. `Dim_Customer` → `Dim_Region` via Region_ID
+  2. `Sales_Fact` → `Dim_Customer` via Customer ID
+  3. `Sales_Fact` → `Calender` via Date
+  4. `Sales_Fact` → `Dim_Country` via Postal Code
+  5. `Sales_Fact` → `Dim_Product` via Product ID
+  6. `Sales_Fact` → `Dim_Region` via Region_ID
+  7. `Sales_Fact` → `Calender` via Date
+  8. `Sales_Fact` → `Dim_Region` via ShipModeID
 
 ![Data Modeling Diagram](https://github.com/user-attachments/assets/f4c08ea1-9f84-4d9c-9d56-2cc2c38726d3)
 
