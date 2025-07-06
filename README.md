@@ -245,8 +245,8 @@ Sales are spread throughout the year, with no single month or segment dominating
 
 ## 📖 Report Design Guidelines
 
-* Professional layout with consistent theme (Power BI Default)
-* Use of slicers for interactivity
+* Professional layout with consistent Visualizations using Power BI
+* Use of slicers for interactivity and filtering
 * Color-coded segments and categories
 * Time filter standardization across all visuals
 
@@ -291,4 +291,4 @@ By resolving locale-related date parsing issues and applying strong modeling pri
 📞 Phone: 01020258416
 🔗 [LinkedIn](https://linkedin.com/in/mostafa-ayman5)
 
-> This project is part of my Data Analytics Portfolio showcasing end-to-end Power BI development with transformation, modeling, and visualization expertise.
+> This project was my graduation capstone for the **DEPI 300-hour program offered by the Ministry of Communication**, where I was awarded a degree of **excellence**. It is part of my Data Analytics Portfolio and demonstrates my end-to-end proficiency in Power BI, including data transformation, modeling, and visualization.
