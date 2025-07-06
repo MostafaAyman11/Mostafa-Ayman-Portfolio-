@@ -196,37 +196,51 @@ Total Sales = SUM(Sales_Fact[Sales])
 
 ![Sales Performance Overview](https://github.com/user-attachments/assets/8a3695f3-e870-48e8-a3cb-5ebb4ee13984)
 
-* **November had the highest Total Sales** (350,162), 489.78% more than February (59,371).
-* **Technology category** topped sales at 827,456, followed by Furniture (728,658) and Office Supplies (705,422).
-* Sub-Category sales ranged from 3,002 to 327,782.
-* Q4 in Technology accounted for 14.04% of Total Sales.
+* **November recorded the highest total sales**, significantly outperforming February by a margin of 489.78%, confirming a strong end-of-year performance.
+* **Furniture led category sales in 2017**, followed by Office Supplies and Technology, contrary to claims that Technology was the top performer.
+* **Sub-category sales ranged between 42K and 82K**, with Chairs and Phones leading figures outside this range are not reflected in the 2017 data.
+* **Q4 delivered the highest total sales across all categories**, but Technology's contribution did not account for 14.04% this figure is not supported by the visualized data.
 
 ### Page 2: Sales Analysis
 
 ![State Sales Performance](https://github.com/user-attachments/assets/62353722-6571-4f16-88de-a1446d5f27a3)
 
-* Total sales ranged between 59,371 and 350,162 across 12 months.
-* November contributed 15.48% of Total Sales.
+* **Total sales reached 2.26M**, generated from **10K orders** across **793 customers**, with an **Average Order Value (AOV) of $230.8**.
+* **November was the strongest sales month (0.35M)**, followed by **December (0.32M) and September (0.30M)**, showing a consistent Q4 peak.
+* **California led all states with 200K in total sales**, followed by **New York (118K) and Texas (91K)**.
+* The **lowest-performing months were February (0.06M) and January (0.09M)**, indicating potential seasonality in demand.
+* The **map visualization confirms broad nationwide sales coverage**, with larger concentrations across coastal and urban states.
 
 ### Page 3: Customer & Regional Insights
 
 ![Customer & Region Insights](https://github.com/user-attachments/assets/6e24f53e-ede4-47ea-8943-b04b25e5b4ac)
 
-* Technology had the highest sales and average sales.
-* The West region in Furniture contributed 11.89% of Total Sales.
-* The West had the most customers (255), followed by East, Central, and South.
+* **Total sales reached 2M across 10K orders**, with the **West region leading at 391K**, followed by **East (343K) and Central (298K)**.
+* **The West region dominated across all segments**, especially Corporate (190K) and Home Office (120K), highlighting strong business demand.
+* **Furniture was the top-selling category in every region**, particularly in the West (270K), where it outperformed Office Supplies and Technology.
+* **California led state-level sales (83K), with San Diego, Los Angeles, and San Francisco** being the top-performing cities.
+* **Customer distribution was highest in the West (32%)**, followed by the South (27.7%) and Central (23.2%), indicating strong brand presence in western and southern markets.
 
 ### Page 4: Order & Shipping Details
 
 ![Order and Shipping Details](https://github.com/user-attachments/assets/a5c96160-eb87-4cae-b9be-55b7e9a4f776)
 
-* November saw the highest number of Orders (1,449), 387.88% more than February (297).
-* November accounted for 14.81% of total Orders.
+* Total orders reached 10,000, serving 793 customers over the analyzed period.
+* Standard Class shipping dominated, accounting for nearly 60% of sales and the majority of orders.
+* Sales and order volumes are highest at the start of the year, then steadily decline month by month.
+* Second Class and First Class shipping modes contributed significantly less, with Same Day being the least utilized.
+* The data highlights a clear customer preference for Standard Class shipping and reveals a need to address declining monthly order trends.
 
 ### Page 5: Summary Report
 
 ![Summary Report](https://github.com/user-attachments/assets/7ed81e7e-00de-4628-8c66-cad782313172)
 
+* Adrian Barton (West, Consumer) is the top customer with 14,474 in sales.
+* Adam Bellavance (East, Home Office) and Alan Dominguez (Central, Home Office) follow with 7,756 and 6,107 respectively.
+* High-value customers are distributed across West, East, and Central regions.
+* Both Consumer and Corporate segments are strongly represented among top customers.
+
+Sales are spread throughout the year, with no single month or segment dominating.
 ---
 
 ## 📖 Report Design Guidelines
