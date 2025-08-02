@@ -52,7 +52,7 @@ This project simulates a retail sales scenario within the coffee industry. As a 
 
 ## 🎯 Why This Project Matters
 
-This project highlights my ability to handle end-to-end data analysis using only Excel — from cleaning and formatting raw data to producing actionable dashboards. It represents a realistic business task where speed, accuracy, and clarity are critical. The Coffee Sales Dashboard demonstrates how Excel can still be a powerful tool for analysis, storytelling, and decision-making in small business or retail settings.
+This project highlights my ability to handle end-to-end data analysis using only Excel from cleaning and formatting raw data to producing actionable dashboards. It represents a realistic business task where speed, accuracy, and clarity are critical. The Coffee Sales Dashboard demonstrates how Excel can still be a powerful tool for analysis, storytelling, and decision-making in small business or retail settings.
 
 ---
 
