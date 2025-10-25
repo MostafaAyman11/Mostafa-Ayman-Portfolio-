@@ -6,6 +6,9 @@ This repository contains the files and analysis for a comprehensive **Project Ma
 
 This project was completed as part of my training with the **Digital Egypt Pioneers Initiative (DEPI)**.
 
+**🧰 Tool:** Microsoft Power BI  
+**🧠 Skills Demonstrated:** Data Cleaning (Power Query) · Data Modeling (Star Schema) · DAX · Data Visualization · Dashboard Design · Business Reporting
+
 ---
 
 ## 🚀 Live Interactive Dashboard
