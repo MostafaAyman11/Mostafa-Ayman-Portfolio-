@@ -67,6 +67,10 @@ I followed a four-step process from raw data to a finished BI product.
 - Connected to the raw data source (Excel).
 - Used the **Power Query Editor** to clean and transform the data. This involved standardizing formats, handling null values and errors, and ensuring data integrity before loading it into the model.
 
+**📂 Data Sources Used:**
+- [📘 Project Management Dataset (CSV)](https://github.com/MostafaAyman11/Images-assets/blob/main/Project%20Management.csv)
+- [🖼️ PM_Images Dataset (CSV)](https://github.com/MostafaAyman11/Images-assets/blob/main/PM_Images.csv)
+
 ### 2. Data Modeling (Star Schema)
 - Built a robust **Star Schema** to create an efficient and scalable data model.
 - Linked the central fact table (`ProjectManagement`) with multiple dimension tables (`DimProject`, `DimProjectManager`, `Calendar`, `DimLocation`, etc.).
