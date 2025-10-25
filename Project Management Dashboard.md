@@ -1,10 +1,20 @@
 # 📊 Power BI Project Management Dashboard
 
+![Project Management Dashboard - Cover](pm_1.png)
+
 This repository contains the files and analysis for a comprehensive **Project Management Dashboard** built in **Microsoft Power BI**.  
 This project was completed as part of my training with the **Digital Egypt Pioneers Initiative (DEPI)**.
 
 **🧰 Tool:** Microsoft Power BI  
 **🧠 Skills Demonstrated:** Data Cleaning (Power Query) · Data Modeling (Star Schema) · DAX · Data Visualization · Dashboard Design · Business Reporting
+
+---
+
+## 🔗 Live Dashboard
+[![View Dashboard](https://img.shields.io/badge/View%20Dashboard-Power%20BI-yellow?style=for-the-badge&logo=power-bi)](https://app.powerbi.com/links/yE0Yz6J810?ctid=55f2965b-c160-40b8-90dc-52f4e06bb384&pbi_source=linkShare)
+
+> Or open directly in your browser:  
+> `https://app.powerbi.com/links/yE0Yz6J810?ctid=55f2965b-c160-40b8-90dc-52f4e06bb384&pbi_source=linkShare`
 
 ---
 
@@ -52,16 +62,21 @@ The final product delivers clear, actionable insights into project health, finan
 
 ---
 
+## 📸 Report Previews
+
+### Report — Executive Summary
+![PM Report - Executive Summary](pm_1.png)
+
+### Report — Detailed Tasks & Timeline
+![PM Report - Tasks & Timeline](pm_2.png)
+
+### Report — Manager Performance & Financials
+![PM Report - Manager & Financials](pm_3.png)
+
+---
 
 ## 💡 Key Business Insights
 
 - **🚧 Project Bottleneck:** Only **25%** of projects are *On Track*, while **29%** are *Behind Schedule*. The low **29% task completion rate** reveals major operational delays.  
 - **💸 Volatile Profitability:** A noticeable **financial loss in May** indicates profitability risks despite an overall profit of **$18K**.  
-- **👥 Manager Workload Imbalance:** Two managers (Alice and Charlie) handle **84 overdue tasks (≈40%)**, highlighting potential resource strain.
-
----
-
-## 🎯 Why This Project Matters
-
-This project demonstrates my ability to execute a **full Business Intelligence workflow**:
-> From **ETL (Extract, Transform, Load)** → **Data Modeling (Star Schema)** → **DAX Calculations** → **Dashboard Visualization**
+- **👥 Manager Workload Imbalance:** Two managers (Alice and Charlie) handle
