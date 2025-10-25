@@ -10,9 +10,10 @@ This project was completed as part of my training with the **Digital Egypt Pione
 
 ## 🚀 Live Interactive Dashboard
 
-Click the badge below to open and interact with the live Power BI report.
-
 [![View Dashboard](https://img.shields.io/badge/View%20Dashboard-Power%20BI-yellow?style=for-the-badge&logo=power-bi)](https://app.powerbi.com/links/yE0Yz6J810?ctid=55f2965b-c160-40b8-90dc-52f4e06bb384&pbi_source=linkShare)
+
+> Or open directly in your browser:  
+> `https://app.powerbi.com/links/yE0Yz6J810?ctid=55f2965b-c160-40b8-90dc-52f4e06bb384&pbi_source=linkShare`
 
 ---
 
